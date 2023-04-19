@@ -1,0 +1,15 @@
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\bin\Debug\net6.0\Example002_HelloUser02.exe
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\bin\Debug\net6.0\Example002_HelloUser02.deps.json
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\bin\Debug\net6.0\Example002_HelloUser02.runtimeconfig.json
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\bin\Debug\net6.0\Example002_HelloUser02.dll
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\bin\Debug\net6.0\Example002_HelloUser02.pdb
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\Example002_HelloUser02.csproj.AssemblyReference.cache
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\Example002_HelloUser02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\Example002_HelloUser02.AssemblyInfoInputs.cache
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\Example002_HelloUser02.AssemblyInfo.cs
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\Example002_HelloUser02.csproj.CoreCompileInputs.cache
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\Example002_HelloUser02.dll
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\refint\Example002_HelloUser02.dll
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\Example002_HelloUser02.pdb
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\Example002_HelloUser02.genruntimeconfig.cache
+C:\Users\sjabr\Desktop\hotspur\GeekBrains\2023.04.18_Лекция_03.01\hello_world\Example002_HelloUser02\obj\Debug\net6.0\ref\Example002_HelloUser02.dll
